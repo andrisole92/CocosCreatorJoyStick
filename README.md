@@ -1,3 +1,2 @@
-# hello-world
-Hello world new project template.
-# CocosCreatorJoyStick
+# Virtual  Joystick
+Nice and simple. 
